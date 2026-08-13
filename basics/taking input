@@ -1,0 +1,10 @@
+#include <stdio.h>
+int main()
+{
+    float radii;
+    printf("enter a radius :");
+
+    scanf("%f", &radii);  //&radii naam ki location pr input kro!
+    printf("radii is equal to:%f", radii);
+    return 0;
+}
