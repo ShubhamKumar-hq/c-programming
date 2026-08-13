@@ -1,0 +1,11 @@
+#include <stdio.h>
+int main(){
+    int x =1 , y=1.0;
+    if(x==y)
+    printf("equal\n");
+    else 
+    printf("equal\n");
+
+
+
+}
