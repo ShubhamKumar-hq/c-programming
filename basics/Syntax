@@ -1,0 +1,14 @@
+#include<stdio.h>
+int main(){
+    printf("hello Krishna");
+    printf("\n");
+    printf("\n");
+    printf("hello\n manish\n");
+    printf("\nnnnnnhello Krishnaaa\n");
+    printf("/nn\nnn hello tricky\n");
+    printf("hello tricky\n");
+    
+
+    return 0;
+
+}
