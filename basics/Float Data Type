@@ -1,0 +1,25 @@
+#include <stdio.h>
+int main()
+{
+    float x = 10.124;
+    printf("%f", x);
+
+    float u = 10;
+    printf("%f\n", u);
+
+
+    // int q= 5 , w = 2;
+    // printf("%f", q/w);
+
+    float q= 5 , w = 2;
+    printf("%f", q/w);
+
+    
+//lllllll alert
+
+
+
+    //vv-tricky
+
+
+}
