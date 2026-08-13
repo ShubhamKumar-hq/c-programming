@@ -1,0 +1,7 @@
+#include <stdio.h>
+int main(){
+    int v= 12;
+    printf("%d",v==111);
+    // printf("%d",ch='g'). inhme bhi ho skta hai;
+
+}
