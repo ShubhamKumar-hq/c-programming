@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main(){
+    int x;
+    x=2;
+    printf("%d", x);// %d ka ACTUAL meaning:   iska mtlb int bna diya gya hai.!
+
+    x+=7;
+    printf("%d", x);
+}
+
+//starting of var name with numb  is offensive!
