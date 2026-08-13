@@ -1,0 +1,10 @@
+#include <stdio.h>
+int main()
+{
+    int r= 5;
+    float _pi = 3.14;
+    float v= 4*_pi*r*r*r;
+    printf("the volume of Sphere is %f", v);
+
+
+}
