@@ -1,0 +1,29 @@
+#include <stdio.h>
+int main(){
+    float m1=100;
+    float m2=2;
+    float m3=17;
+    float m4=99;
+    float m5=68;
+    float p = (m1+ m2+ m3+ m4+ m5)/5;
+    printf("The percentage of 5Subjects is : %f",p);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    return 0;
+
+}
