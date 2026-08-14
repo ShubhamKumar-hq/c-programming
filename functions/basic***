@@ -1,0 +1,19 @@
+#include <stdio.h>
+void greet(){//void means  vo kuch nhi hai.
+
+    printf("g.m\n");
+    printf("g.n\n");
+    return;//abhi ke liye Khatham...
+
+}
+
+// char main(){
+    // bilkklul sahi hai##
+//     return 'v';
+// }
+int main(){
+    greet();//calling great
+    greet();
+
+    return 0;
+}
